@@ -11,6 +11,6 @@ See the README files inside the subfolders for further detail.
 STILL UNDER CONSTRUCTION
 
 We are also taking part at the development of the https://github.com/CoRoSoN-Kit/CoRoSoN-Kit.
-
+Here is a photo of the prototypes of a mainboard and an IR-seeker-ring:
 ![grafik](https://user-images.githubusercontent.com/114285164/224542773-12a8e469-29a8-4188-ac37-ddf1df59bd78.png)
 
